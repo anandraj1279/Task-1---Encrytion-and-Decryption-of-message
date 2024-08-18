@@ -1,1 +1,2 @@
 # Task-1---Encrytion-and-Decryption-of-message
+🎉 Excited to share that I've successfully completed my first task as an intern at NovaNectar Services Pvt. Ltd. 🚀 Delved into the complexities of Cyber Security by working on 'Encryption and Decryption of Messages.' This project task has been a fantastic opportunity to apply my skills in ensuring secure communication 🔐 and has deepened my commitment to this critical field. Looking forward to embracing more challenges and continuing my professional growth in the dynamic world of cybersecurity!🌐
